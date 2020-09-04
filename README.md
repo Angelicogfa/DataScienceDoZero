@@ -7,3 +7,4 @@ Projeto destinado a estudo de data science, com base no conteúdo do curso da co
 1. Python
 2. Numpy e Pandas
 3. Vizualização de dados
+4. Estatistica
