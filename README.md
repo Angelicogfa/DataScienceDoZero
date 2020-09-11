@@ -17,3 +17,4 @@ Projeto destinado a estudo de data science, com base no conteúdo do curso da co
    1. KNN
    2. Regressão Linear
    3. SVM
+Extra. Series temporais
